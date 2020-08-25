@@ -12,20 +12,12 @@ export const AppHeader: React.FC<Props> = ({ title, ...props }) => {
     <header
       {...props}
       sx={{
-        display: 'flex',
-        alignItems: 'center',
-        width: '100%',
-        bg: 'white',
-        height: '64px',
-        p: 3,
+        variant: 'layout.app-header',
       }}
     >
       <h1
         sx={{
-          fontSize: '1.25rem',
-          letterSpacing: '1.25px',
-          m: 0,
-          textTransform: 'uppercase',
+          variant: 'text.h5',
         }}
       >
         {title}

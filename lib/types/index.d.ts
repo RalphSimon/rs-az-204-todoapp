@@ -1,3 +1,14 @@
+/* ENTITIES */
+export interface Todo {
+  id?: string
+  userId?: string
+  completed?: boolean
+  created?: string | Date
+  description?: string
+}
+
+export type TodoData = Todo
+
 /* THEME */
 export type SizeTypes = 'small' | 'medium' | 'large' | 'x-large' | 'default'
 

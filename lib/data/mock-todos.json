@@ -1,0 +1,142 @@
+[
+  {
+    "id": "todo-1",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/1/2020",
+    "description": "Do 50 push-ups"
+  },
+  {
+    "id": "todo-2",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/2/2020",
+    "description": "Buy diapers"
+  },
+  {
+    "id": "todo-3",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/3/2020",
+    "description": "Call mum"
+  },
+  {
+    "id": "todo-4",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/3/2020",
+    "description": "Walk a mile"
+  },
+  {
+    "id": "todo-5",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/2/2020",
+    "description": "Read Tsun Tsu"
+  },
+  {
+    "id": "todo-6",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/3/2020",
+    "description": "Check this list"
+  },
+  {
+    "id": "todo-7",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/5/2020",
+    "description": "Write a book"
+  },
+  {
+    "id": "todo-8",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/3/2020",
+    "description": "Write a book"
+  },
+  {
+    "id": "todo-9",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/7/2020",
+    "description": "Buy milk"
+  },
+  {
+    "id": "todo-10",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/3/2020",
+    "description": "Call mum"
+  },
+  {
+    "id": "todo-11",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/4/2020",
+    "description": "Study Azure Functions"
+  },
+  {
+    "id": "todo-12",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/12/2020",
+    "description": "Walk a mile"
+  },
+  {
+    "id": "todo-13",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/13/2020",
+    "description": "Buy milk"
+  },
+  {
+    "id": "todo-14",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/8/2020",
+    "description": "Go for a run"
+  },
+  {
+    "id": "todo-15",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/7/2020",
+    "description": "Prepare baby food"
+  },
+  {
+    "id": "todo-16",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/6/2020",
+    "description": "Check this list"
+  },
+  {
+    "id": "todo-17",
+    "completed": true,
+    "userId": "John Doe",
+    "created": "10/6/2020",
+    "description": "Check this list"
+  },
+  {
+    "id": "todo-18",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/3/2020",
+    "description": "Walk a mile"
+  },
+  {
+    "id": "todo-19",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/3/2020",
+    "description": "Call mum"
+  },
+  {
+    "id": "todo-20",
+    "completed": false,
+    "userId": "John Doe",
+    "created": "10/17/2020",
+    "description": "Buy diapers"
+  }
+]

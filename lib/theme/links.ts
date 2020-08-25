@@ -9,9 +9,9 @@ export const links: Theme['links'] = {
     alignItems: 'center',
     justifyContent: 'center',
     textDecoration: 'none',
-    color: 'secondary',
+    color: 'primary',
     mx: 2,
-    opacity: 0.54,
+    opacity: 0.64,
     '&:active, &.active': {
       color: 'primary',
       opacity: 1,

@@ -1,3 +1,6 @@
+/** @jsx jsx */
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import { jsx } from 'theme-ui'
 import { AppProps } from 'next/app'
 import { ThemeProvider } from 'theme-ui'
 import { CheckCircle, User } from 'react-feather'
@@ -8,7 +11,7 @@ import { theme } from '../lib/theme'
 const AppRoot = ({ Component, pageProps }: AppProps) => {
   return (
     <ThemeProvider theme={theme}>
-      <main
+      <div
         sx={{
           variant: 'layout.app-root',
         }}
@@ -18,11 +21,11 @@ const AppRoot = ({ Component, pageProps }: AppProps) => {
           <NavLink href="/" title="Todos" active>
             <CheckCircle size={20} />
           </NavLink>
-          <NavLink href="/" title="Profile">
+          <NavLink href="/profile" title="Profile">
             <User size={20} />
           </NavLink>
         </AppNavRoot>
-      </main>
+      </div>
     </ThemeProvider>
   )
 }
